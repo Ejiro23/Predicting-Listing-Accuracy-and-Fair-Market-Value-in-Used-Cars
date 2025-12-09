@@ -9,14 +9,14 @@ The goal of this project is to:
 
 We worked with a large-scale automotive dataset and built models for regression, classification, and forecasting, supported by extensive feature engineering and exploratory analysis.
 
-## 📥 Dataset Access
+##  Dataset Access
 Due to file size limitations, the dataset is not included in this repository.  
 You can download the full dataset here:
 https://www.kaggle.com/datasets/tsaustin/us-used-car-sales-data
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 The dataset originally contained over 6.5 million used-car listings from dealership websites across the United States.  
 After filtering and cleaning (2013–2022 models only), we worked with **5.6 million rows** and engineered additional variables such as:
@@ -34,7 +34,7 @@ Models built include:
 
 ---
 
-## 📘 Files Included
+##  Files Included
 
 - **notebooks/UsedcarPrediction_Final.ipynb**  
   Full workflow: data cleaning, feature engineering, EDA, regression models, trust-score model, and forecasting.
@@ -48,7 +48,7 @@ Models built include:
 
 ---
 
-## 🔧 Technologies Used
+##  Tools Used
 
 - **Python** → Pandas, NumPy, Scikit-learn, StatsModels  
 - **Visualization** → Matplotlib, Seaborn  
@@ -57,7 +57,7 @@ Models built include:
 
 ---
 
-## 🧠 Key Steps Performed
+##  Key Steps Performed
 
 - Loaded & cleaned raw used-car listing data  
 - Removed missing values and unnecessary fields  
@@ -69,7 +69,7 @@ Models built include:
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 - **Aheli Das**  
 - **Ejiroghene Akpokiro**  
@@ -79,7 +79,7 @@ Models built include:
 
 ---
 
-## 🚀 How to Use This Repository
+##  How to Use This Repository
 
 1. Clone or download the repository  
 2. Open the Jupyter Notebook in `/notebooks`  
@@ -93,7 +93,8 @@ Models built include:
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **academic and educational use only**.
+
 
